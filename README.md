@@ -7,7 +7,7 @@
 <p>
 I'm a Full Stack Developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
--⚡Hello, my name is Ibrahim Mohamed Radi. I’m a third-year student at the Egyptian E-Learning University (EELU), Faculty of Computers and Information, majoring in Information Technology. 
+-⚡Hello, my name is Ibrahim Mohamed Radi. I’m a Senior Student student at the Egyptian E-Learning University (EELU), Faculty of Computers and Information, majoring in Information Technology. 
 
 -👨‍💻I'm very passionate about the field of programming.. 
 
