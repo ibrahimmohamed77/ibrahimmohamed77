@@ -1,92 +1,101 @@
+<img align="right" src="https://api.dicebear.com/9.x/identicon/png?seed=ibrahimmohamed77&size=200&backgroundColor=2f81f7,0d1117&backgroundType=gradientLinear" width="140" style="border-radius:16px;">
 
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
-<h1>
-  Hi There I'm Ibrahim Mohamed Radi  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-<p>
-I'm a Full Stack Developer with a strong passion for creating visually appealing and user-friendly websites. 
-</p>
--⚡Hello, my name is Ibrahim Mohamed Radi. I’m a Senior Student student at the Egyptian E-Learning University (EELU), Faculty of Computers and Information, majoring in Information Technology. 
+# Hi, I'm Ibrahim Mohamed Radi 👋
+### Software Engineer · Frontend Developer (React.js) · CS Graduate
 
--👨‍💻I'm very passionate about the field of programming.. 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
--💻I am open to working on diverse projects and contributing to innovative solutions....
-
--⚡especially creating a Frontend Developer specializing in React..With a passion for building high-performance, visually stunning websites
-
-- 📚 I’m currently learning about Frontend and Backend technologies.
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
-
-  
-- 📫 Social links
-<p>
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/ibrahim-mohamed-radi-867632271" target="_blank">
-  <img align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="ibrahim mohamed radi" height="30" width="40" />
-</a>
-
-<!-- Facebook -->
-<a href="https://www.facebook.com/share/1AuAtJza7w/?mibextid=qi2Omg" target="_blank">
-  <img align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-    alt="ibrahim mohamed rady" height="30" width="40" />
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/lbrahim_mohamed_7?igsh=aDY2aGoxdmpneDF4" target="_blank">
-  <img align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="ibrahim mohamed instagram" height="30" width="40" />
-</a>
-
-</p>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<br clear="right"/>
 
 <p align="center">
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-<br>
-   
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+React.js+%2F+JavaScript;Networking+Fundamentals%3A+Switching%2C+Routing%2C+IPv4%2FIPv6;Head+at+Google+Developer+Groups+(GDG);Open+to+Internships+%26+Collaborative+Projects" alt="Typing SVG" />
 </p>
-<br>
-<br>
 
------
-<br>
+---
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmohamed77&layout=compact)
-<br>
-<a href="https://komarev.com/ghpvc/?username=ibrahimmohamed77&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=ibrahimmohamed77&style=for-the-badge">
+### 🚀 About Me
+
+- 🎓 Computer Science graduate of **Egyptian E-Learning University (EELU)**, Sohag
+- 💻 Frontend Developer with hands-on experience building responsive web apps using **React.js, JavaScript, HTML5, CSS3**
+- 🌐 Solid foundation in **networking fundamentals** — switching & routing, IPv4/IPv6, wireless networking
+- 🧑‍🏫 **Head at Google Developer Groups (GDG)** and team member at **Atomika**
+- 🎯 Open to entry-level Frontend Developer opportunities where I can apply my skills to real-world, production-level projects
+- ⚡ Fun fact: I also teach programming to kids and web development to adults!
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Networking**
+
+![Networking](https://img.shields.io/badge/Networking-Switching%20%7C%20Routing%20%7C%20IPv4%2FIPv6-2F4F4F?style=for-the-badge)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 💼 Featured Projects
+
+- **Personal Portfolio Website** — Responsive portfolio built with React.js, HTML, CSS, and Tailwind CSS
+- **Responsive Landing Pages** — Modern landing pages with reusable UI components using HTML, CSS, JavaScript, and Bootstrap
+- **Frontend Practice Projects** — React.js/JavaScript projects applying responsive design and component-based development
+
+> _Once you pin these repos, I can turn each line above into a clickable link with a live preview badge._
+
+---
+
+### 📚 Training
+
+- **React Frontend Web Development** — Digital Egypt Pioneers Initiative (DEPI), Round 4 (Nov 2025 – Jul 2026)
+- **Frontend Web Development** — Information Technology Institute (ITI), 120 Hours (Jul – Aug 2024)
+- **Software Development Fundamentals** — Information Technology Institute (ITI), 120 Hours (Jul – Aug 2023)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahimmohamed77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimmohamed77&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmohamed77&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimmohamed77&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ibrahim-mohamed-radi-867632271" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrahimmohamed77&style=for-the-badge&color=blueviolet" alt="profile views" />
+</p>
