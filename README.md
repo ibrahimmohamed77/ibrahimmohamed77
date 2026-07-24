@@ -1,6 +1,5 @@
 <!--==================== HERO SECTION ====================-->
-
-<img align="right" src="https://api.dicebear.com/9.x/identicon/png?seed=ibrahimmohamed77&size=220&backgroundColor=2f81f7,0d1117&backgroundType=gradientLinear" width="180"/>
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 # Hi, I'm Ibrahim Mohamed Radi 👋
 
@@ -145,14 +144,13 @@
 
 ---
 
-# 📈 GitHub Activity
+
+## 📈 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimmohamed77&theme=tokyo-night&hide_border=true"/>
-
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrahimmohamed77&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahimmohamed77&theme=github_dark" />
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
@@ -209,6 +207,19 @@
 
 > **"Code is like humor. When you have to explain it, it's bad."** — Cory House
 
+</p>
+
+---
+
+
+# 📸 A Glimpse of Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ibrahimmohamed77/ibrahimmohamed77/main/banner.png" alt="Ibrahim Mohamed Radi" width="85%" style="border-radius:12px;" />
+</p>
+
+<p align="center">
+Building impactful web experiences while continuously learning and growing.💙🚀
 </p>
 
 ---
